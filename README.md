@@ -47,21 +47,24 @@ Frontend application developed with React for a bakery business.
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Current Focus
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-gabrieRodriguez&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-gabrieRodriguez&layout=compact)
-
+- Backend Development with Spring Boot
+- REST API Design
+- Spring Security & JWT
+- PostgreSQL & MongoDB
+- Learning Docker and Microservices
 ---
 
 ## 📫 Contact
 
-📧 Email: argabrielrodriguez15@gmail.com
+📧 📫 **Emails:**  
+- Personal Email: [argabrielrodriguez15@gmail.com](mailto:argabrielrodriguez15@gmail.com)  
+- University: [00005118@uca.edu.sv](mailto:00005118@uca.edu.sv) *(usado en algunos proyectos universitarios)* 
 
-💼 LinkedIn: www.linkedin.com/in/gabriel-rodriguez-b7591911a
+💼 **LinkedIn:** [Gabriel Rodríguez](https://www.linkedin.com/in/gabriel-rodriguez-b7591911a/)
 
-📂 Portfolio Repository: github.com/A-gabrieRodriguez/MyProjects
+📂  **Portfolio Repository:** [MyProjects](https://github.com/A-gabrieRodriguez/MyProjects) 
 
 ---
 
