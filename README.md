@@ -34,15 +34,23 @@ I enjoy building secure, scalable and maintainable backend applications. Most of
 ## 📂 Featured Projects
 
 ### 🌆 City Security System
+**Repository:** [Backend_PlumaSeguridad](https://github.com/A-gabrieRodriguez/Backend_PlumaSeguridad)
+
 Backend built with Spring Boot for managing visitor access through QR codes and security barriers.
 
 ### 💼 Electronic Billing System
+**Repository:** [FacturaElectronica](https://github.com/rodolfo-22/FacturaElectronica) 
+
 Backend application developed with Spring Boot, Spring Security and JWT authentication.
 
 ### 🌱 Plant Care API
+**Repository:** [backend_plant](https://github.com/A-gabrieRodriguez/backend_plant)
+
 REST API developed with Node.js and MongoDB for plant management and care information.
 
 ### 🍞 Bakery Web
+**Repository:** [Panaderia_web](https://github.com/A-gabrieRodriguez/Panaderia_web) 
+
 Frontend application developed with React for a bakery business.
 
 ---
@@ -61,6 +69,15 @@ Programming Instructor Assistant at Universidad Centroamericana José Simeón Ca
 - PostgreSQL & MongoDB
 - Learning Docker and Microservices
 - Learning NestJS
+
+---
+## 📚 Currently Learning
+
+- NestJS
+- Docker
+- Microservices
+- Clean Architecture
+
 ---
 
 ## 📫 Contact
