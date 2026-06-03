@@ -54,7 +54,7 @@ Frontend application developed with React for a bakery business.
 - Spring Security & JWT
 - PostgreSQL & MongoDB
 - Learning Docker and Microservices
-- Lerning NestJs
+- Learning NestJS
 ---
 
 ## 📫 Contact
