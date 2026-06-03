@@ -47,6 +47,12 @@ Frontend application developed with React for a bakery business.
 
 ---
 
+## 🎓 Academic Experience
+
+Programming Instructor Assistant at Universidad Centroamericana José Simeón Cañas (UCA), supporting students in software development and programming courses under the supervision of Professor Luisa Arévalo.
+
+---
+
 ## 🔥 Current Focus
 
 - Backend Development with Spring Boot
